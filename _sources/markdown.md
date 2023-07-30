@@ -1,6 +1,6 @@
 # Tour du Saint-Bernard Dorus en Tom
 
-Foto's gehele vakantie: [https://photos.app.goo.gl/H6E1eM933a1fP2419]
+Foto's gehele vakantie: <https://photos.app.goo.gl/H6E1eM933a1fP2419>
 
 Route op kaart met daadwerkelijke afstand en hoogtemeters:
 

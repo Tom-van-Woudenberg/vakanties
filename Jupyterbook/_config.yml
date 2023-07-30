@@ -1,0 +1,8 @@
+# Book settings
+# Learn more at https://jupyterbook.org/customize/config.html
+
+title: Mijn vakanties
+author: Tom van Woudenberg
+
+execute:
+  execute_notebooks: force

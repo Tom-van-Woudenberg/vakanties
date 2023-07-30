@@ -1,6 +1,6 @@
 # Tour du Saint-Bernard Dorus en Tom
 
-Foto's gehele vakantie: <https://photos.app.goo.gl/H6E1eM933a1fP2419>
+Foto's gehele vakantie: <https://photos.app.goo.gl/SfzCW35M63rPQMXf7>
 
 Route op kaart met daadwerkelijke afstand en hoogtemeters:
 
@@ -12,6 +12,7 @@ Route op kaart met daadwerkelijke afstand en hoogtemeters:
 - 15.6 km
 - 1160 m stijgen
 - 510 m dalen
+
 <iframe src="https://www.komoot.com/nl-nl/tour/1236199488/embed?share_token=aCeNUZdKsNhiATUgr3wGAXqGv6KpgyjNIOJ9Xcd3Qvg1sXQ9kd" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
 
 

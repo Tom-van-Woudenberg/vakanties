@@ -1,4 +1,4 @@
-# Tour du Saint-Bernard Dorus en Tom
+# 2023-07-24 Tour du Saint-Bernard Dorus en Tom
 
 Foto's gehele vakantie: <https://photos.app.goo.gl/SfzCW35M63rPQMXf7>
 
@@ -116,7 +116,6 @@ Route op kaart met daadwerkelijke afstand en hoogtemeters:
   <object data="https://lh3.googleusercontent.com/pw/AIL4fc_OTG5knm-9pk7-REddeEdXngSbgLXxvl6UrQ5ZAgv3LliP2xKukvxhPikRtM86EToYtepjj4jKVIhfQHtJkvLVu63NdMY6B8ImKq8nfzF5gCSuZdWt=w960"></object>
   <object data="https://lh3.googleusercontent.com/pw/AIL4fc8A4iOxbQ9Ql-yp9vxz6mV4q4eLtA6fkmdVN1xxCNTaLBBzOovNe6nhgqPCajoqO93g1PTg6_sA2S7tuD7gpq2W4x2CbknHr18ORzMwKTTpVMmanHvW=w960"></object>
   <object data="https://lh3.googleusercontent.com/pw/AIL4fc-Mt2H3AQL04otYo220KDzmaTT0if9IR-T9z7gI7tqExOqsEW9R-lCVchJwTv_i0prz2cLgKKEjWWP-HfQobSFnNBBoGIMRMrgOCIQ6KO1hbH8DoI08=w960"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AIL4fc9tE2RJANDMGoSJTalOyHWDm0qkkSgQhg1utuv9DAQQd_ZFEUMvDhDaY2XuZ7X6srzkvfkurfcx8pW_ysw1mKTrhj27NqZSvQIxJTPKHjtmQGnZWxbr=w960"></object>
   <object data="https://lh3.googleusercontent.com/pw/AIL4fc_el5YT-aqQykD1HzP1ehnFy_Q5P7sbeY58br32ixUKyrwOsZrPLzJ8a46y7LYnUT1490N-VC1XCf1TtnJv1LxnaWFjarSUsdU48sURQc4k3V6YNV0I=w960"></object>
   <object data="https://lh3.googleusercontent.com/pw/AIL4fc8p09poHuqcyQBcn-ze32mIRugZAJy12Q_yclmnqep36z2lM0uA5hgYPVDt5nJCjlPgHCvRtNGLl7YZIpyQ7Bs_dEtvcPsJCSBH4NkVSs5SPJNjTdUE=w960"></object>
   <object data="https://lh3.googleusercontent.com/pw/AIL4fc-wkcH5dtKiF2tLRiFNjTfPfVSpv7OliN32GjTm_vPMDtqehrc01NIffwWWxIQIvo4_ZgijG1h6SwegS50ck8U1SLJmq_mGr7GX4sNuYHJlLrP8s3Z8=w960"></object>

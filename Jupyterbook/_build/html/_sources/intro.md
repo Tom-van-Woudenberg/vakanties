@@ -1,6 +1,6 @@
 # Welkom bij mijn vakanties
 
-In dit boek vind je alle foto's en gps-data van mijn vakanties:)
+Op deze website vind je alle foto's en gps-data van mijn vakanties:)
 
 ```{tableofcontents}
 ```
